@@ -1,0 +1,47 @@
+pdfplumber
+python-docx
+PyMuPDF
+fitz
+puremagic
+numpy
+pandas
+python-pptx
+pandas
+numpy
+sentence-transformers
+torch
+tqdm
+transformers
+faiss-cpu
+scikit-learn
+openai
+pandas
+numpy
+langchain
+langchain_experimental
+
+# Core dependencies
+pandas
+numpy
+
+# LangChain components
+langchain>=0.3.1
+langchain-openai>=0.3.8
+langchain-core>=0.3.45
+langchain-community
+
+# Vector store
+faiss-cpu>=1.8.0
+
+# Azure OpenAI integration
+azure-identity>=1.17.1
+azure-core>=1.30.2
+
+# Utility libraries
+pydantic>=2.9.2
+tenacity>=8.5.0
+
+# File system operations
+fsspec>=2025.3.0
+
+scikit-learn
